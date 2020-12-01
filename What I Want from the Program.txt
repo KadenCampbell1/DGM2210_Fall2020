@@ -89,4 +89,6 @@ ImageWorks:
 -Quincy, WA
 
 
-
+I think I have finally decided to work towards environment modeling and hopefully integrate special effects into my work to be able to do either.
+The skill I want to work on is Houdini based environment modeling with some special effects. The product I want to do a field of flowers that is blown
+by wind with a pixie type partical trail "causing" the wind. The Job is an environment modeler or environment type special effects.
